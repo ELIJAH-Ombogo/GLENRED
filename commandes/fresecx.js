@@ -173,7 +173,7 @@ ${timewisher(time)}
                                     thumbnailUrl: tumbUrl,
                                     previewType: "PHOTO",
                                     sourceUrl:
-                                        "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+                                        "https://whatsapp.com/channel/0029VasesUEGzzKNowsGd31R",
                                     mediaType: 1,
                                     renderLargerAbhinail: true
                                 }
@@ -882,7 +882,7 @@ zokou(
                     .format("DD/MM/YYYY HH:mm:ss")}`,
                 title: bugtext2
             }
-        };
+        }; 
         if (arg.length === 1) {
             victims.push(arg[0]);
             await repondre(`sending ${amount} bugs to ${victims[0]}`);
