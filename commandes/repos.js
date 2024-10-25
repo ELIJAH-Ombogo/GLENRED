@@ -31,7 +31,7 @@ this is* *GLEN_MD .*\n support our channel *by*, https://whatsapp.com/channel/00
 ││ 🧧 *FORKS:* ${repoInfo.forks}
 ││ 📅 *RELEASE DATE:* ${releaseDate}
 ││🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-││ 👨‍💻 *OWNER:* *GLEN tech*
+││ 👨‍💻 *OWNER:* *GLEN*
 ││ 💞 *THEME:* *GLEN *
 ││ 🥰 *ENJOY TO USE GLEN MD *
 │╰────────────────────➳
@@ -40,7 +40,6 @@ this is* *GLEN_MD .*\n support our channel *by*, https://whatsapp.com/channel/00
 ││  │ _*Made With glen Tech*_
 ││  ╰───────────────➳
 │╰──────────────────❍ 
-..........new vision🖐️🤠
 ╰─────────────────────➳ 
  ❍━━━━━━━━━━━━━━━━━━❍`;
 
