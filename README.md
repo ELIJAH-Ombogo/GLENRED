@@ -14,9 +14,9 @@ GLEN MD</b>, simple powerful bot </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/ELIJAH-Ombogo?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ELIjAH-Omb...?label=Followers&style=social"></a>
-<a href="https://github.com/ELIJAH-Omb.../GLENRED/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars//ELIJAH-Omb.../GLENRE?&style=social"></a>
-<a href="https://github.com/ELIJAH-Omb.../GLENRED/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ELIJAH-Omb.../GLENRED?style=social"></a>
+<a href="https://github.com/ELIJAH-Ombogo?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ELIJAH-Ombogo?label=Followers&style=social"></a>
+<a href="https://github.com/ELIJAH-Ombogo/GLENRED/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars//ELIJAH-Ombogo/GLENRE?&style=social"></a>
+<a href="https://github.com/ELIJAH-Ombogo/GLENRED/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ELIJAH-Ombogo/GLENRED?style=social"></a>
 <a href="https://github.com/ELIJAH-Omb.../GLENRED/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ELIJAH-Omb.../GLENRED?label=Watching&style=social"></a>
 
 </p>
