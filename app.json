@@ -1,9 +1,9 @@
 {
-  "name":"YESSER-MD",
-  "description":"Best whatsapp bot developed by yesser Tech",
+  "name":"GLEN-MD",
+  "description":"Best whatsapp bot developed by glen Tech",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/8lzwqh.jpeg",
-  "repository":"https://github.com/Yassin994/YESSER-1",
+  "repository":"https://github.com/ELIJAH-Ombogo/GLENRED",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"YESSER-MD",
+      "value":"GLEN-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/8lzwqh.jpeg,https://files.catbox.moe/5thusr.jpeg,https://files.catbox.moe/eou4n8.jpeg",
+      "value":"https://i.imgur.com/eZ9sFcf.jpeg,https://i.imgur.com/NClkDq2.jpeg,https://i.imgur.com/iQXjd3s.jpeg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "yessertech"
+    "value": "glentech"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255621995482"
+    "value": "254720254797"
   },
     "WARN_COUNT":
   {
