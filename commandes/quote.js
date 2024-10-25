@@ -14,14 +14,14 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
 ║   GLEN-MD new vison 
-║   ✨made by yesser tech
+║   ✨made by glen tech
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by yesser tech`);
+Powered by glen tech`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
