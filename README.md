@@ -6,18 +6,18 @@
  </p>
  
  <a href="https://whatsapp.com/channel/0029VasesUEGzzKNowsGd31R">
- <img alt="🇬 🇱 🇪 🇳 MD" height="300" src="https://files.catbox.moe/x9td6k.jpeg".
+ <img alt="🇬 🇱 🇪 🇳  🇲 🇩 " height="300" src="https://i.imgur.com/iQXjd3s.jpeg".
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
-YESSER MD</b>, simple powerful bot </p>
+GLEN MD</b>, simple powerful bot </p>
 
 </p>
   <p align="center">
 <a href="https://github.com/ELIJAH-Ombogo?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/yassin994?label=Followers&style=social"></a>
 <a href="https://github.com/yassin994/YESSER-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/yassin994/YESSER-MD?&style=social"></a>
-<a href="https://github.com/yassin994/YESSER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yassin994/YESSER-MD?style=social"></a>
-<a href="https://github.com/yassin994/YESSER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yassin994/YESSER-MD?label=Watching&style=social"></a>
+<a href="https://github.com/ELIJAH-Ombogo/GLENRED/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ELIJAH-Ombogo/GLENRED-MD?style=social"></a>
+<a href="https://github.com/ELIJAH-Ombogo/GLENRED-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ELIJAH-Ombogo/GLENRED-MD?label=Watching&style=social"></a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Elijah-Ombogo}/count.svg" alt="GLEN-MD :: Visitor's Count"/></p>
@@ -180,11 +180,11 @@ The WhatsApp Bot GLEN MD is released under the [MIT License](https://opensource.
     <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/254720254797?"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VasesUEGzzKNowsGd31R"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
+    <td><a href="https://wa.me/254720254797?"><img src="https://i.imgur.com/eZ9sFcf.jpeg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VasesUEGzzKNowsGd31R"><img src="https://i.imgur.com/NClkDq2.jpeg" width="180"</td>
   </tr>
 </table>
 
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/eZ9sFcf.jpeg'/></a>
