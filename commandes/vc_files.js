@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`) 
+                 await repondre(`https://whatsapp.com/channel/0029VasesUEGzzKNowsGd31R`) 
 
    
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'yessertgc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To follow 😂CHEKA TU 😂 channeel * https://whatsapp.com/channel/0029VafooOgAjPXNXqBpW01X`) 
+                 await repondre(`*Tap Here To follow 😂CHEKA TU 😂 channeel * https://whatsapp.com/channel/0029VasesUEGzzKNowsGd31R`) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESSER MD is running on its latest vision_*`) 
+                 await repondre(`*_Glen MD is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESSER MD_*`) 
+                 await repondre(`*_Glen MD_*`) 
 
    
 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'yesserwagc',
+zokou({ nomCom: 'glenwagc',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'yesserwagc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap To Join BONIPHACE Md WhatsApp Chartroom Group* https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY`) 
+                 await repondre(`*Tap To Join GLEN Md WhatsApp Chartroom Group* https://chat.whatsapp.com/EhacJqOPeYa8A1OtWVR12w`) 
 
    
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY YESSER MD",
-    "By yesser Tech`) 
+    "POWERED BY GLEN MD",
+    "By glen  Tech`) 
 
    
 
