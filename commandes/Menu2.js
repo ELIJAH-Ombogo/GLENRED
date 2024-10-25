@@ -18,11 +18,11 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
     cm.map(async (com, index) => { if (!coms[com.categorie])
         coms[com.categorie] = []; coms[com.categorie].push(com.nomCom); });
     const temps = moment(moment()).format("HH:MM:SS");
-    moment.tz.setDefault('Africa/Dar es salaam').locale("id");
+    moment.tz.setDefault('Africa/NAIROBI').locale("id");
     const date = moment.tz("Africa/Dar es salaam").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "  ═══ *YESSER✨MD* ═══\n\n";
+    let menuMsg = "  ═══ *GLEN✨MD* ═══\n\n";
     /*menuMsg+=`
     
     
@@ -69,7 +69,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
     }
     var link = "https://i.imgur.com/vXz75pe.jpeg";
     try {
-        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©YESSER MD" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©glen MD" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
