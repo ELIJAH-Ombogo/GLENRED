@@ -40,23 +40,23 @@ const date = moment().format('DD/MM/YYYY');
 ❂━━━➳════⊷════➳━━━━❂
 
 *GITHUB LINK*
-> https://github.com/yassin994
+> https://github.com/ELIJAH-Ombogo 
 
 *YouTube channel*
->https://www.youtube.com/@Yesserboy92
+>https://youtube.com/@elijahombogo-yx1iv?si=2CIEDjzad7Xmwgl6
 
 *FOR DEVELOPER T.ME*
-> https://wa.me/255621995482
+> https://wa.me/254720254797
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G 
+> https://whatsapp.com/channel/0029VasesUEGzzKNowsGd31R 
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/yassin994/YESSER-MD
+> https://github.com/ELIJAH-Ombogo/GLENRED
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┃▓▒ *DEV* : *yesser BOT*
+┃▓▒ *DEV* : *glen BOT*
 ┃ ❂━━━════➳════━━━━❂
 ⁠⁠⁠⁠╰──━━━━═════════━━━━⦿ 
   `;
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ yesser MD 😎
+     ┃▓ glen MD 😎
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
