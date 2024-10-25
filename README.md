@@ -15,7 +15,8 @@ GLEN MD</b>, simple powerful bot </p>
 </p>
   <p align="center">
 <a href="https://github.com/ELIJAH-Ombogo?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ELIJAH-Ombogo?label=Followers&style=social"></a>
-<a href="https://github.com/ELIJAH-Ombogo/GLENRED/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars//ELIJAH-Ombogo/GLENRE?&style=social"></a>
+<a href="https://github.com/ELIJAH-Ombogo/GLENRED/stargazers/">
+  <img title="STARS" src="https://img.shields.io/github/stars//ELIJAH-Ombogo/GLENRE?&style=social"></a>
 <a href="https://github.com/ELIJAH-Ombogo/GLENRED/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ELIJAH-Ombogo/GLENRED?style=social"></a>
 <a href="https://github.com/ELIJAH-Ombogo/GLENRED/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ELIJAH-Ombogo/GLENRED?label=Watching&style=social"></a>
 
