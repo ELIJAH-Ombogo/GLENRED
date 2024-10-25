@@ -22,7 +22,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
     const date = moment.tz("Africa/Nairobi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "  ═══ *YESSER MD* ═══\n\n";
+    let menuMsg = "  ═══ *GLEN MD* ═══\n\n";
     /*menuMsg+=`
     
     
@@ -67,7 +67,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "https://i.imgur.com/rhN88rS.jpeg";
+    var link = "https://i.imgur.com/iQXjd3s.jpeg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©𝑩𝑼𝑮𝑨𝑻𝑻𝑰" }, { quoted: ms });
     }
