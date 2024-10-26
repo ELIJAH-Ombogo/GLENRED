@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: 
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *GLENRED .*\n support our channel *by*,  https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
+this is* *GLENRED .*\n support our channel *by*,  https://whatsapp.com/channel/0029VasesUEGzzKNowsGd31R
 
 ╭─────────────────────➳
 │╭────────────────────➳
