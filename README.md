@@ -128,7 +128,7 @@ The WhatsApp Bot GLEN MD is released under the [MIT License](https://opensource.
 - [**GLEN TECH**](https://github.com/ELIJAH-Ombogo/GLENRED)
 - [**ELIJAH TECH**](https://github.com/ELIJAH-Ombogo/GLENRED)
 - [**Developers YT**](https://youtube.com/@elijahombogo-yx1iv?si=YACuHM4tOtR2GVLA)
-- [**LEONARD TECH**](hhts://github.com/Kingmakota) 
+- [**LEONARD TECH**](hhtp://github.com/Kingmakota) 
 
 ★im born to win🏹. ©
      
